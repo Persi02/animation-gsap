@@ -1,16 +1,22 @@
 * {
   margin: 0;
-  padding: 0;
+
 }
 
+.section_rouge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  font-size: 60px;
+  font-family: sans-serif;
+  padding: 0;
+}
 
 .test {
   font-size: 40px;
   font-family: sans-serif;
   display: flex;
-}
-
-
-span {
-  display: inline-block;
 }
