@@ -22,7 +22,7 @@ const splitText = (elements) => {
 splitText(p);
 
 gsap.from("p span", {
-  opacity: 0, stagger: 0.04
+  opacity: 0, stagger: 0.02
 })
 
 
